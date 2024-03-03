@@ -2099,10 +2099,10 @@
     "debugExceptionWidget.background": "#333333",
     "debugExceptionWidget.border": "#474747",
     "errorForeground": "#ff0000",
-    "editorBracketHighlight.foreground1": "#6db1a58a",
-    "editorBracketHighlight.foreground2": "#6db16f8a",
-    "editorBracketHighlight.foreground3": "#80b16d8a",
-    "editorBracketHighlight.foreground4": "#b0b16d8a",
-    "editorBracketHighlight.foreground5": "#b16d6d8a",
+    "editorBracketHighlight.foreground1": "#b4b4b4de",
+    "editorBracketHighlight.foreground2": "#b4b4b4de",
+    "editorBracketHighlight.foreground3": "#b4b4b4de",
+    "editorBracketHighlight.foreground4": "#b4b4b4de",
+    "editorBracketHighlight.foreground5": "#b4b4b4de",
   }
 }
