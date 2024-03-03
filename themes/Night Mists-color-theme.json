@@ -67,7 +67,7 @@
       "name": "support.function.std.rust",
       "scope": "support.function.std.rust",
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -137,7 +137,7 @@
       "name": "diff",
       "scope": "meta.diff.header.from-file,meta.diff.header.to-file,punctuation.definition.from-file.diff,punctuation.definition.to-file.diff",
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -179,7 +179,7 @@
       "name": "js/ts import keyword",
       "scope": "keyword.operator.expression.import",
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -231,7 +231,7 @@
       "name": "java modifier.import",
       "scope": "meta.method.java",
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -377,7 +377,7 @@
       "name": "js console function",
       "scope": "entity.name.function,support.function.console",
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -496,7 +496,7 @@
       "name": "python function-call.generic",
       "scope": "meta.function-call.generic.python",
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -599,7 +599,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -666,7 +666,7 @@
       "name": "Methods",
       "scope": "keyword.other.special-method",
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -793,7 +793,7 @@
       "scope": "entity.other.attribute-name.id",
       "settings": {
         // "fontStyle": "normal",
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -822,7 +822,7 @@
       "name": "Headings",
       "scope": "markup.heading punctuation.definition.heading, entity.name.section",
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -954,7 +954,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
       "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -1135,7 +1135,7 @@
       "name": "php call-function",
       "scope": "meta.function-call.php,meta.function-call.object.php,meta.function-call.static.php",
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -1163,7 +1163,7 @@
       "name": "php goto",
       "scope": "entity.name.goto-label.php,support.other.php",
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -1198,7 +1198,7 @@
       "name": "python function decorator @",
       "scope": "meta.function.decorator.python",
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -1295,7 +1295,7 @@
     {
       "scope": "token.info-token",
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -1351,7 +1351,7 @@
         "support.type.type.flowtype"
       ],
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -1579,7 +1579,7 @@
         "meta.method.groovy"
       ],
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -1722,7 +1722,7 @@
         "constant.character.xi"
       ],
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
@@ -1731,7 +1731,7 @@
         "accent.xi"
       ],
       "settings": {
-        "foreground": "#75e19b"
+        "foreground": "#00abff"
       }
     },
     {
