@@ -3,11 +3,20 @@
   "displayName": "NightMists",
   "description": "A theme Custom by Rafe",
   "version": "0.0.1",
+  "publisher": "RRLC",
   "engines": {
     "vscode": "^1.87.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "simple theme",
+    "simple dark theme",
+    "simple",
+    "simple theme"
   ],
   "contributes": {
     "themes": [

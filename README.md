@@ -1,6 +1,7 @@
 # nightmists-theme README
 
 ## Working with Markdown
+## This is the README for your extension "night-mists"
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
