@@ -1,4 +1,4 @@
-# nightmists-theme README
+# README
 
 ## Working with Markdown
 ## This is the README for your extension "night-mists"
