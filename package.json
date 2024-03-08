@@ -1,35 +1,44 @@
 {
-  "name": "nightmists-theme",
-  "displayName": "NightMists",
-  "description": "A theme Custom by Rafe",
-  "version": "0.0.1",
-  "publisher": "RRLC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/raferianluba/nightmists-theme.git"
-  },
-  "keywords": [
-    "theme",
-    "dark theme",
-    "simple theme",
-    "simple dark theme",
-    "simple",
-    "simple theme"
-  ],
-  "engines": {
-    "vscode": "^1.87.0"
-  },
-  "categories": [
-    "Themes"
-  ],
- 
-  "contributes": {
-    "themes": [
-      {
-        "label": "Night Mists",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Night Mists-color-theme.json"
-      }
-    ]
-  }
+	"name": "nightmists-theme",
+	"displayName": "NightMists",
+	"description": "A theme Custom by Rafe",
+	"version": "0.0.1",
+	"publisher": "RRLC",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/raferianluba/nightmists-theme.git"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"simple theme",
+		"simple dark theme",
+		"simple",
+		"simple theme"
+	],
+	"engines": {
+		"vscode": "^1.87.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Night Mists",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Night Mists-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "4f9f3bb4-27e2-410c-a70e-b4c78f5492a6",
+		"publisherId": "6a8601b6-b0c9-4740-bb27-c9ced0a0caa1",
+		"publisherDisplayName": "RRLC",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1709819197258
+	}
 }
